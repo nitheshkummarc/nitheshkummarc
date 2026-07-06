@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Nitheshkummar 👋
 
-<!--
-**nitheshkummarc/nitheshkummarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer** focused on **Backend Engineering**, **Distributed Systems**, and **Applied AI**.
 
-Here are some ideas to get you started:
+I enjoy designing systems that are scalable, reliable, and maintainable—from distributed data pipelines to backend platforms and AI-assisted applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+🚀 **Spark Failure Propagation & Root-Cause Analytics**  
+Automated root-cause analysis for Apache Spark using dependency-aware DAG traversal and machine learning.
+
+🏗️ **WorkLens**  
+Configuration-driven candidate evaluation platform with deterministic, explainable ranking.
+
+🤖 **Pinance** *(Team Project)*  
+Built the Finance Analyzer (Agent A) for a multi-agent AI-powered personal finance platform.
+
+📊 **Formula 1 Telemetry Analytics**  
+Telemetry analytics pipeline using ARIMA and XGBoost for race performance prediction.
+
+## Engineering Focus
+
+- Backend Engineering
+- Distributed Systems
+- Software Architecture
+- AI Engineering
+
+📫 **Email:** nitheshkummarni@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/nitheshkummar
