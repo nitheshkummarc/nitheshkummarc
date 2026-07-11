@@ -32,6 +32,12 @@ Built 2 of 3 AI agents for a multi-agent personal finance platform, enabling aut
 
 ---
 
+### 📅 [PlanPal](https://github.com/nitheshkummarc/planpal)
+
+Community-driven event management platform with secure JWT authentication, role-based authorization, event participation workflows, tag-based discovery, and a PostgreSQL-backed REST API.
+
+**Tech:** React • Flask • PostgreSQL • SQLAlchemy • JWT • Tailwind CSS
+
 ## 💻 Engineering Focus
 
 **Backend Engineering • Distributed Systems • Data Engineering • Software Architecture • AI-native Software • Performance Optimization**
