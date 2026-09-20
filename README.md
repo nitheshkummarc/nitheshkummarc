@@ -11,26 +11,26 @@ A deterministic resolution layer reconciles late, duplicated, contradictory, and
 
 **Tech:** Python • FastAPI • Pydantic • Gemini/Groq
 
+### 📅 [PlanPal](https://github.com/nitheshkummarc/planpal)
+Community-driven event-management platform with JWT authentication, role-based authorization, event participation workflows, and a PostgreSQL-backed REST API.
+
+**Tech:** Python • React • Flask • PostgreSQL • SQLAlchemy • JWT • Tailwind CSS
+
 ### 🔒 [Aegis — Enterprise RAG with Transactional RBAC](https://github.com/nitheshkummarc/Aegis-Enterprise-RAG-with-Transactional-RBAC)
 RAG system where permission checks run inside the same SQL query as vector retrieval, so unauthorized document chunks never reach the LLM. Uses role-aware partial HNSW indexes across three clearance levels, verified against live PostgreSQL EXPLAIN plans.
 Validated with a 105-test suite and instrumented end-to-end with Langfuse.
 
 **Tech:** Python • FastAPI • PostgreSQL + pgvector • Next.js • Celery/Redis • Langfuse
 
-### 🏗️ [WorkLens](https://github.com/nitheshkummarc/worklens)
-Deterministic, explainable candidate-ranking engine that evaluates 100,000 candidate profiles against a job specification in under 2 minutes on a single CPU core, with zero runtime network dependencies.
-
-**Tech:** Python • Pydantic • Docker
-
 ### 📊 [Spark Failure Propagation & Root-Cause Analytics](https://github.com/nitheshkummarc/spark-failure-propagation-root-cause-analytics)
 Distributed root-cause analysis platform for Apache Spark — reconstructs execution DAGs from event logs, traces failures through Reverse BFS, and classifies failure scenarios from runtime telemetry with 88.2% accuracy.
 
 **Tech:** Scala • Apache Spark • PySpark • Hadoop (HDFS/YARN) • Docker
 
-### 📅 [PlanPal](https://github.com/nitheshkummarc/planpal)
-Community-driven event-management platform with JWT authentication, role-based authorization, event participation workflows, and a PostgreSQL-backed REST API.
+### 🏗️ [WorkLens](https://github.com/nitheshkummarc/worklens)
+Deterministic, explainable candidate-ranking engine that evaluates 100,000 candidate profiles against a job specification in under 2 minutes on a single CPU core, with zero runtime network dependencies.
 
-**Tech:** Python • React • Flask • PostgreSQL • SQLAlchemy • JWT • Tailwind CSS
+**Tech:** Python • Pydantic • Docker
 
 ## 💻 Engineering Focus
 Backend Engineering • AI Agent Systems & Guardrails • RBAC / Secure Retrieval • Distributed Systems • Software Architecture • AI Reliability
